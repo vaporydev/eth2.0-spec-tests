@@ -1,4 +1,4 @@
-# Eth 2.0 spec tests
+# Vap 2.0 spec tests
 
 This repository contains test vectors for the Eth 2.0 spec.
 Other types of testing (network, fuzzing, benchmarking, etc.) are currently a work in progress, and will be hosted in separate repositories.
